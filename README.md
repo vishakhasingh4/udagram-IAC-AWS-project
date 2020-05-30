@@ -19,8 +19,8 @@ There will be two parts to this project:
 
 ## Run the below commands to create the full stack : 
 ---------
-`./create.sh networking-stack networking.yaml networking-parameters.json` 
-`./create.sh servers-stack servers.yaml servers-parameters.json`
+* `./create.sh networking-stack networking.yaml networking-parameters.json` 
+* `./create.sh servers-stack servers.yaml servers-parameters.json`
 ---------
 
 * The bucket is already created, and the IAM role for the EC2 instances allows it to download
