@@ -26,6 +26,6 @@ There will be two parts to this project:
 * The bucket is already created, and the IAM role for the EC2 instances allows it to download
     (using aws cli) the udagram.zip file and unzip it at /var/www/html location.
     
-* The application URL will be an output of the servers-stack. [click here](http://serve-WebAp-XEZZ9ZCO2Y9-144595670.us-west-2.elb.amazonaws.com)
+* The application URL will be an output of the servers-stack. [click here](http://serve-webap-1d65pxdgoxumu-1801387365.us-west-2.elb.amazonaws.com/)
 
 
